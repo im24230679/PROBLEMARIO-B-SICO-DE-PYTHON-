@@ -10,4 +10,4 @@ Carrera: Ingenieria Quimica
 <br>
 TRABAJO: PROBLEMARIO BÁSICO DE PYTHON 
 <br>
-Fecha: 03-10-2024
+Fecha: 11-11-2024
